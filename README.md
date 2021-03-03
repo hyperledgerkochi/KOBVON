@@ -5,7 +5,7 @@
 <p>Hyperledger Aries</p>
 
 <h2>Motivation</h2>
-The key motivation of having the VON network is to enable a decentralized network of associations within the city of kochi with is anchored in a blockchain enabled by KOBPIU which would enable on boarding various trusted and verified associations and could enable getting lisence, issuance or permits in a simplified way which brings about tranparancy. In addition KOBVON makes applying for credentials faster and less error prone and issuing of credentials simpler and more secure
+<p>The key motivation of having the VON network is to enable a decentralized network of associations within the city of kochi with is anchored in a blockchain enabled by KOBPIU which would enable on boarding various trusted and verified associations and could enable getting lisence, issuance or permits in a simplified way which brings about tranparancy. In addition KOBVON makes applying for credentials faster and less error prone and issuing of credentials simpler and more secure.</p>
 
 <p>Further Von network has other advantages over the traditional mechanisms. It makes datas available to users so they won't need to find it and re-enter it and shared when its open, or shared otherwise with consent. The digital services will simplify their users' experience through access to a network of unified data and decreased time to market and costs as they won't have to re-create costly capabilities related to data collection and management</p>
 
