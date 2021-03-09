@@ -1,5 +1,5 @@
 <h2>Abstract</h2>
-<p>KOBVON is the Verifiable Organizations Network for the city of Kochi. The goal of the Verifiable Organizations Network (VON) project is to explore the design of an open, unified and trusted network of associations (ie association of doctors, lawyers, taxi drivers etc...) for use by people and services across the city of Kochi. It consist of a series of ecosystems. Each ecosystem consists of the KOBOrgBook in the middle and a number of services that access the KOB to get claims verified and issue verifiable credentials to KOB.</p>
+<p>KOBVON is the Verifiable Organizations Network for the city of Kochi. The goal of the Verifiable Organizations Network (VON) project is to explore the design of an open, unified and trusted network of associations (ie association of doctors, lawyers, taxi drivers etc...) for use by people and services across the city of Kochi. It consist of a series of ecosystems. Each ecosystem consists of the (KOBAW)KOBOrgBook in the middle and a number of services that access the KOB to get claims verified and issue verifiable credentials to KOB.</p>
 
 <h2>Dependent Projects</h2>
 <p>Hyperledger Aries</p>
