@@ -1,4 +1,4 @@
-## Solution
+# Solution
 
 We can do this with the help of tools and libraries of Hyperledger Aries, and thus, we can develop independent digital identifiers rooted on block chain. We use an approach called the verifiable credential model and these are Cryptographically protected data which is used to prove who we are. We also use self-sovereign identity and decentralized identifiers which are independent of the central authorities. Self Sovereign Identity (SSI) is a promising approach to decentralized handling of personal data that gives users back control of their data where it belongs. SSI further enables a higher level of trust on the internet by providing mechanisms that enable verifiable identification of parties to translation, reducing the need for a high-cost, in-person mechanism to establish trust.
 
