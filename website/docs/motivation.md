@@ -1,0 +1,5 @@
+# Motivation
+
+The key motivation of having the VON network is to enable a decentralized network of associations within the city of kochi with is anchored in a blockchain enabled by KOBPIU which would enable on boarding various trusted and verified associations and could enable getting license, issuance or permits in a simplified way which brings about tranparancy. In addition, KOBVON makes applying for credentials faster and less error prone and issuing of credentials simpler and more secure.
+
+Further, Von network has other advantages over the traditional mechanisms. It makes datas available to users so that they won't need to find it and re-enter it and shar when its open, or shar otherwise with consent. The digital services will simplify their users' experience through access to a network of unified data and decreased time to market and costs as they won't have to re-create costly capabilities related to data collection and management.

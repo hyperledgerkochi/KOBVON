@@ -1,0 +1,13 @@
+site_name: KOB VON
+theme:
+    name: material
+markdown extensions:
+    - attr_list    
+nav:
+    - Overview: index.md
+    - Dependent projects: dependent.md
+    - Motivation: motivation.md
+    - Status of the project: status.md
+    - Solution: solution.md
+    - Contributors: contributors.md
+    - License: license.md
