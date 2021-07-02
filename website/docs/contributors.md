@@ -1,1 +1,3 @@
-[Nafiya](https://github.com/Nafiya123)
+# Contributors
+
+[Najiya Nazar](https://github.com/NajiyaNazar)
